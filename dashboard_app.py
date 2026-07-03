@@ -344,4 +344,4 @@ if __name__ == '__main__':
     Open your browser at:  http://127.0.0.1:8050
     Press Ctrl+C to stop.
     """)
-    app.run(debug=False, host='0.0.0.0', port=8050)
+    app.run(debug=False, host='0.0.0.0', port=10000)
